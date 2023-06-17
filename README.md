@@ -3,7 +3,7 @@
 node index.js --action="list"
 https://monosnap.com/file/8jxpkX1O1g5LK9jrdMobjEgQH5SwcC
 
-# Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує.
+# Отримуємо контакт по id і виводимо у консоль об'єкт контакту або null, якщо контакту з таким id не існує
 
 node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
 https://monosnap.com/file/7c5Rm5xzqUVMb6VWIhp5oubFvjJKfN
@@ -13,7 +13,7 @@ https://monosnap.com/file/7c5Rm5xzqUVMb6VWIhp5oubFvjJKfN
 node index.js --action="add" --name Mango --email mango@gmail.com --phone 322-22-22
 https://monosnap.com/file/rzMurHHappVSw8nxpLtU8pFEmb2xdt
 
-# Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує.
+# Видаляємо контакт та виводимо в консоль об'єкт видаленого контакту або null, якщо контакту з таким id не існує
 
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 https://monosnap.com/file/xo3pGwJQZ3GpgpksemB4nx9uxyrokj
